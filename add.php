@@ -16,7 +16,7 @@ if($_POST){
     );
 
     if($result){
-        echo "<script>alert('New Task Added');window.location.herf='index.php';</script>";
+        echo "<script>alert('New Task Added');window.location.href='index.php';</script>";
     }
 
 }   
